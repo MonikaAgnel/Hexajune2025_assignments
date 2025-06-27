@@ -1,0 +1,17 @@
+git log
+
+
+
+
+clear
+
+
+
+
+
+this is names.txt file.
+
+
+
+
+
